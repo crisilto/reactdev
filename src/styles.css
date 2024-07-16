@@ -71,6 +71,7 @@ body {
   width: 34px;
 }
 
+/*Important part of CSS where you make the rows grouped*/
 .board-row:after {
   clear: both;
   content: '';
